@@ -1,0 +1,8 @@
+{
+    "name": "grenhaz/yii2-userlog",
+    "description": "YII2 Log file by user",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "yiisoft/yii2": "~2.0.6"
+    }
+}
