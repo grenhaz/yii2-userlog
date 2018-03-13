@@ -3,7 +3,6 @@
     "description": "Yii2 Log file by user",
     "type": "yii2-extension",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "~2.0.6"
     },
