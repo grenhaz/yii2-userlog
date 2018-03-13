@@ -1,5 +1,6 @@
 {
     "name": "grenhaz/yii2-userlog",
+	"version": "1.0.0",
     "minimum-stability": "dev",
     "description": "Yii2 Log file by user",
     "type": "yii2-extension",
