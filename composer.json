@@ -1,23 +1,15 @@
 {
     "name": "grenhaz/yii2-userlog",
-    "description": "YII2 Log file by user",
-    "homepage": "https://github.com/grenhaz/yii2-userlog",
+    "description": "Yii2 Log file by user",
     "type": "yii2-extension",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Oscar Barcia Tome",
-            "email": "grenhaz@gmail.com",
-            "homepage": "https://github.com/grenhaz/",
-            "role": "Developer"
-        }
-    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.6"
+    },
     "autoload": {
         "psr-4": {
             "grenhaz\\yii2-userlog\\": "src"
         }
-    },
-    "require": {
-        "yiisoft/yii2": "^2.0"
     }
 }
