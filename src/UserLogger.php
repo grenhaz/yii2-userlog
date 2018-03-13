@@ -1,5 +1,5 @@
 <?php
-namespace grenhaz\yii-userlog;
+namespace grenhaz\userlog;
 
 use Yii;
 use yii\log\FileTarget;
