@@ -3,6 +3,7 @@
 	"version": "1.0.0",
     "minimum-stability": "dev",
     "description": "Yii2 Log file by user",
+	"keywords": ["log","logging"],
     "type": "yii2-extension",
     "license": "MIT",
     "require": {
