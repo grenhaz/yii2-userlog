@@ -8,7 +8,7 @@
         "yiisoft/yii2": "~2.0.6"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "grenhaz\\yii2-userlog\\": "src"
         }
     }
