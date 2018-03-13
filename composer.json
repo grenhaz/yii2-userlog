@@ -5,6 +5,18 @@
 	"homepage": "https://github.com/grenhaz/yii2-userlog",
 	"type": "yii2-extension",
 	"license": "MIT",
+	"authors": [
+        {
+            "name": "Oscar Barcia Tome",
+            "homepage": "https://github.com/grenhaz/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "grenhaz\\yii2-userlog\\": "src"
+        }
+    },
     "require": {
         "php": "^5.3.3 || ^7.0",
         "yiisoft/yii2": "~2.0.6"
