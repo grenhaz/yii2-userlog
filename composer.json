@@ -1,5 +1,6 @@
 {
     "name": "grenhaz/yii2-userlog",
+    "minimum-stability": "dev",
     "description": "Yii2 Log file by user",
     "type": "yii2-extension",
     "license": "MIT",
