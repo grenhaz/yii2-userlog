@@ -1,13 +1,13 @@
 {
     "name": "grenhaz/yii2-userlog",
-	"minimum-stability": "dev",
     "description": "YII2 Log file by user",
-	"homepage": "https://github.com/grenhaz/yii2-userlog",
-	"type": "yii2-extension",
-	"license": "MIT",
-	"authors": [
+    "homepage": "https://github.com/grenhaz/yii2-userlog",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
         {
             "name": "Oscar Barcia Tome",
+            "email": "grenhaz@gmail.com",
             "homepage": "https://github.com/grenhaz/",
             "role": "Developer"
         }
@@ -18,7 +18,6 @@
         }
     },
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "yiisoft/yii2": "~2.0.6"
+        "yiisoft/yii2": "^2.0"
     }
 }
