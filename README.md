@@ -25,4 +25,18 @@ Basic Usage
 -----------
 
 ```php
+'log' => [
+	'targets' => [
+		[
+			'class' => 'grenhaz/userlog/UserLogger',
+			'name' => 'user_basic',
+		],
+	],
+],
+```
+
+Log file location:
+
+```
+runtime/logs/{user_id}/{name}.log
 ```
